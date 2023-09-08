@@ -25,3 +25,20 @@ git remote -v
 git status
 it status
 git status
+git add .
+git commit -m "First push from GSC"
+git remote
+git branch -M main
+git remote add origin https://github.com/naheel867/devopscurtin.git
+git remote
+git remote -v
+git push -u origin main
+git config -l
+git push -u origin main
+git push origin --force
+git push origin main --force
+touch readme
+ls
+git push origin main --force
+git add .
+git push origin main --force
